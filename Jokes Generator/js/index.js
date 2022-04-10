@@ -1,11 +1,11 @@
 const button = document.querySelector(".container button");
 const jokeDiv = document.querySelector(".container .joke p");
 
-document.addEventListener("DOMContentLoaded", getJock);
+document.addEventListener("DOMContentLoaded", getJoke);
 
-button.addEventListener("click", getJock);
+button.addEventListener("click", getJoke);
 
-async function getJock() {
+async function getJoke() {
     // Fetching Geek Joke API
     const jokeData = await fetch("https://geek-jokes.sameerkumar.website/api?format=json", {
         headers: {
