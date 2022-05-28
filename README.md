@@ -31,7 +31,7 @@ Contact me on the links below:
 * HTML
 * SCSS / CSS
 * JavaScript
-* [Gek Jokes API](https://github.com/sameerkumar18/geek-joke-api)
+* [Geek Jokes API](https://github.com/sameerkumar18/geek-joke-api)
 
 ## ©️ License
 
